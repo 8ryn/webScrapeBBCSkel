@@ -3,14 +3,8 @@ webScrapeBBCSkel
 
 |code_ci| |docs_ci| |coverage| |pypi_version| |license|
 
-.. note::
-
-    This project contains template code only. For documentation on how to
-    adopt this skeleton project see
-    https://8ryn.github.io/webScrapeBBCSkel-cli
-
-This is where you should write a short paragraph that describes what your module does,
-how it does it, and why people should use it.
+A module which reads the maximum and minimum forecast temperatures from BBC
+Weather and pushes them to a soft IOC. Just to learn how to use this skeleton!
 
 ============== ==============================================================
 PyPI           ``pip install webScrapeBBCSkel``
@@ -19,9 +13,7 @@ Documentation  https://8ryn.github.io/webScrapeBBCSkel
 Releases       https://github.com/8ryn/webScrapeBBCSkel/releases
 ============== ==============================================================
 
-This is where you should put some images or code snippets that illustrate
-some relevant examples. If it is a library then you might put some
-introductory code here:
+Only for learning purposes!
 
 .. code-block:: python
 
