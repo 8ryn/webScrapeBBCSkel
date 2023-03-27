@@ -7,16 +7,16 @@ webScrapeBBCSkel
 
     This project contains template code only. For documentation on how to
     adopt this skeleton project see
-    https://Bryn.github.io/webScrapeBBCSkel-cli
+    https://8ryn.github.io/webScrapeBBCSkel-cli
 
 This is where you should write a short paragraph that describes what your module does,
 how it does it, and why people should use it.
 
 ============== ==============================================================
 PyPI           ``pip install webScrapeBBCSkel``
-Source code    https://github.com/Bryn/webScrapeBBCSkel
-Documentation  https://Bryn.github.io/webScrapeBBCSkel
-Releases       https://github.com/Bryn/webScrapeBBCSkel/releases
+Source code    https://github.com/8ryn/webScrapeBBCSkel
+Documentation  https://8ryn.github.io/webScrapeBBCSkel
+Releases       https://github.com/8ryn/webScrapeBBCSkel/releases
 ============== ==============================================================
 
 This is where you should put some images or code snippets that illustrate
@@ -33,16 +33,16 @@ Or if it is a commandline tool then you might put some example commands here::
 
     $ python -m webScrapeBBCSkel --version
 
-.. |code_ci| image:: https://github.com/Bryn/webScrapeBBCSkel/actions/workflows/code.yml/badge.svg?branch=main
-    :target: https://github.com/Bryn/webScrapeBBCSkel/actions/workflows/code.yml
+.. |code_ci| image:: https://github.com/8ryn/webScrapeBBCSkel/actions/workflows/code.yml/badge.svg?branch=main
+    :target: https://github.com/8ryn/webScrapeBBCSkel/actions/workflows/code.yml
     :alt: Code CI
 
-.. |docs_ci| image:: https://github.com/Bryn/webScrapeBBCSkel/actions/workflows/docs.yml/badge.svg?branch=main
-    :target: https://github.com/Bryn/webScrapeBBCSkel/actions/workflows/docs.yml
+.. |docs_ci| image:: https://github.com/8ryn/webScrapeBBCSkel/actions/workflows/docs.yml/badge.svg?branch=main
+    :target: https://github.com/8ryn/webScrapeBBCSkel/actions/workflows/docs.yml
     :alt: Docs CI
 
-.. |coverage| image:: https://codecov.io/gh/Bryn/webScrapeBBCSkel/branch/main/graph/badge.svg
-    :target: https://codecov.io/gh/Bryn/webScrapeBBCSkel
+.. |coverage| image:: https://codecov.io/gh/8ryn/webScrapeBBCSkel/branch/main/graph/badge.svg
+    :target: https://codecov.io/gh/8ryn/webScrapeBBCSkel
     :alt: Test Coverage
 
 .. |pypi_version| image:: https://img.shields.io/pypi/v/webScrapeBBCSkel.svg
@@ -57,4 +57,4 @@ Or if it is a commandline tool then you might put some example commands here::
     Anything below this line is used when viewing README.rst and will be replaced
     when included in index.rst
 
-See https://Bryn.github.io/webScrapeBBCSkel for more detailed documentation.
+See https://8ryn.github.io/webScrapeBBCSkel for more detailed documentation.

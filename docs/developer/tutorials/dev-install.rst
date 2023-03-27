@@ -10,7 +10,7 @@ Clone the repository
 First clone the repository locally using `Git
 <https://git-scm.com/downloads>`_::
 
-    $ git clone git://github.com/Bryn/webScrapeBBCSkel.git
+    $ git clone git://github.com/8ryn/webScrapeBBCSkel.git
 
 Install dependencies
 --------------------

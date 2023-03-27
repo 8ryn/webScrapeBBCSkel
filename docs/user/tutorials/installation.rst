@@ -30,7 +30,7 @@ You can now use ``pip`` to install the library and its dependencies::
 If you require a feature that is not currently released you can also install
 from github::
 
-    $ python3 -m pip install git+https://github.com/Bryn/webScrapeBBCSkel.git
+    $ python3 -m pip install git+https://github.com/8ryn/webScrapeBBCSkel.git
 
 The library should now be installed and the commandline interface on your path.
 You can check the version that has been installed by typing::

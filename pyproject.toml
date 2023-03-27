@@ -41,7 +41,7 @@ dev = [
 webScrapeBBCSkel = "webScrapeBBCSkel.__main__:main"
 
 [project.urls]
-GitHub = "https://github.com/Bryn/webScrapeBBCSkel"
+GitHub = "https://github.com/8ryn/webScrapeBBCSkel"
 
 [[project.authors]] # Further authors may be added by duplicating this section
 email = "31349775+8ryn@users.noreply.github.com"

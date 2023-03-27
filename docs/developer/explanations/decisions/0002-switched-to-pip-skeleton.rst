@@ -11,7 +11,7 @@ Accepted
 Context
 -------
 
-We should use the following `pip-skeleton <https://github.com/Bryn/webScrapeBBCSkel>`_.
+We should use the following `pip-skeleton <https://github.com/8ryn/webScrapeBBCSkel>`_.
 The skeleton will ensure consistency in developer
 environments and package management.
 
