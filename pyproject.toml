@@ -40,7 +40,7 @@ dev = [
     "sphinx-design",
     "tox-direct",
     "types-mock",
-    "type-requests",
+    "types-requests",
 ]
 
 [project.scripts]
