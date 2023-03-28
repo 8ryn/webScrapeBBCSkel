@@ -24,7 +24,7 @@ runs:
       run: |
         touch ${{ inputs.requirements_file }}
         # -c uses requirements.txt as constraints, see 'Validate requirements file'
-        pip install --upgrade pip setuptools wheel
+        pip install --use-pep517 cothread
         pip install -c ${{ inputs.requirements_file }} ${{ inputs.install_options }}
       shell: bash
 
