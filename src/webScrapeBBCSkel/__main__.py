@@ -2,7 +2,7 @@ import logging
 from argparse import ArgumentParser
 
 import cothread
-from softioc import softioc, builder
+from softioc import builder, softioc
 
 from webScrapeBBCSkel.weather import Weather
 
