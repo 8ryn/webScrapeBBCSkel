@@ -12,8 +12,13 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
 ]
-description = "One line description of your module"
-dependencies = [] # Add project dependencies here, e.g. ["click", "numpy"]
+description = "A module which reads the maximum and minimum forecast temperatures from BBC Weather and pushes them to a soft IOC."
+dependencies = [
+    "cothread",
+    "softioc",
+    "beautifulsoup4",
+    "requests",
+] # Add project dependencies here, e.g. ["click", "numpy"]
 dynamic = ["version"]
 license.file = "LICENSE"
 readme = "README.rst"
@@ -35,6 +40,7 @@ dev = [
     "sphinx-design",
     "tox-direct",
     "types-mock",
+    "type-requests",
 ]
 
 [project.scripts]
