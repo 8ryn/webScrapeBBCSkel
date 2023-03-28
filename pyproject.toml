@@ -14,7 +14,7 @@ classifiers = [
 ]
 description = "A module which reads the maximum and minimum forecast temperatures from BBC Weather and pushes them to a soft IOC."
 dependencies = [
-    "wheel",
+    #   "wheel",
     "cothread",
     "softioc",
     "beautifulsoup4",
