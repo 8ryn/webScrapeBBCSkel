@@ -6,7 +6,7 @@ ROOT = Path(__file__).parent.parent
 
 
 class TestCardiff:
-    path = ROOT / "tests/testWeb/Cardiff.html"
+    path = str(ROOT / "tests/testWeb/Cardiff.html")
     weather = Weather(path, file_path=True)
 
     def test_maxCardiff(self):
@@ -20,7 +20,7 @@ class TestCardiff:
 
 
 class TestHendred:
-    path = ROOT / "tests/testWeb/Hendred.html"
+    path = str(ROOT / "tests/testWeb/Hendred.html")
     weather = Weather(path, file_path=True)
 
     def test_maxHendred(self):
