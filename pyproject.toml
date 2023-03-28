@@ -10,12 +10,10 @@ classifiers = [
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
-    "Programming Language :: Python :: 3.11",
 ]
 description = "A module which reads the maximum and minimum forecast temperatures from BBC Weather and pushes them to a soft IOC."
 dependencies = [
-    #   "wheel",
-    #"cothread",
+    "cothread",
     "softioc",
     "beautifulsoup4",
     "requests",
