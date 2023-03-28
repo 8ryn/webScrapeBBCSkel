@@ -24,7 +24,7 @@ runs:
       run: |
         touch ${{ inputs.requirements_file }}
         # -c uses requirements.txt as constraints, see 'Validate requirements file'
-        pip install -c ${{ inputs.requirements_file }} ${{ inputs.install_options }}
+        pip install -c ${{ inputs.requirements_file }} ${{ inputs.install_options }} wheel
       shell: bash
 
     - name: Create lockfile
@@ -55,4 +55,3 @@ runs:
           fi
         fi
       shell: bash
-
